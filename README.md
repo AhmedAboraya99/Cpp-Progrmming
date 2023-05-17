@@ -1,5 +1,5 @@
 # Cpp-Progrmming
-======================================================================================
+=============================================================================
 
 This repository contains C++ code examples and applications, including object-oriented programming (OOP) concepts, that can be used in embedded systems.
 
